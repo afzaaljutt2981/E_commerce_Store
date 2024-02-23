@@ -21,6 +21,6 @@ class MyApp extends StatelessWidget {
       title: 'E_commerce_Store',
       home: const HomeScreen(),
       theme: AppTheme.lightAppTheme,
-    );
+    ); 
   }
 }
