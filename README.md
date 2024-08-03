@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/actions/workflow/status/SinaSys/flutter_ecommerce_app/main.yml?branch=master&label=CI%20&logo=github">
   <img src="https://img.shields.io/github/v/release/SinaSys/flutter_ecommerce_app?label=Release&logo=semantic-release">
   <img src="https://img.shields.io/github/last-commit/SinaSys/flutter_ecommerce_app?label=Last%20commit">
-</p>
+</p> 
  
     
  
