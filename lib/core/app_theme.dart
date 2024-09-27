@@ -6,7 +6,7 @@ class AppTheme {
   static ThemeData lightAppTheme = ThemeData(
     elevatedButtonTheme: ElevatedButtonThemeData( 
       style: ElevatedButton.styleFrom( 
-        padding: const EdgeInsets.all(12), 
+        padding: const EdgeInsets.all(12),  
         backgroundColor: const Color(0xFFf16b26),
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(12), // <-- Radius
